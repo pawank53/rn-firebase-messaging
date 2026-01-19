@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# rn-firebase-messaging
-A cross-platform React Native implementation of Firebase Cloud Messaging (FCM). Features include local and remote push notifications, background/foreground message handling, and device token management for both iOS and Android. Optimized for seamless integration with @react-native-firebase/messaging
-=======
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
